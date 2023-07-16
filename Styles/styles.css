@@ -1,0 +1,101 @@
+body {
+    background-color: darkslategrey;
+}
+
+.main-title {
+    font-weight: bold;
+    text-align: center;
+    color: white;
+}
+
+.color-table-container {
+    border: 1px solid white;
+    margin-top: 10px;
+
+}
+
+.main-h2 {
+    color: white;
+    line-height: auto;
+    text-align: center;
+}
+
+td {
+    border: 1px solid black;
+    padding: 30px 30px;
+    color: white;
+    margin: auto;
+}
+
+/* Color Theme Swatches 1 */
+.Green-on-Green-1-hex { background-color: #025E73; }
+.Green-on-Green-2-hex { background-color: #011F26; }
+.Green-on-Green-3-hex { background-color: #A5A692; }
+.Green-on-Green-4-hex { background-color: #BFB78F; }
+.Green-on-Green-5-hex { background-color: #F2A71B; }
+
+/* Color Theme Swatches 2 */
+.Humanrace-1-hex { background-color: #7AB3BF; }
+.Humanrace-2-hex { background-color: #F2EFDF; color: black;}
+.Humanrace-3-hex { background-color: #734439; }
+.Humanrace-4-hex { background-color: #BF8173; }
+.Humanrace-5-hex { background-color: #A65851; }
+
+/* Fonts */
+
+.font-container {
+    border: 1px solid white; 
+    padding: 10px 10px;
+    margin-top: 10px;
+}
+
+.font-panel {background-color: white; padding: 5px;}
+
+/* Roboto font */
+
+.roboto-title {font-weight: bold; text-decoration: underline;}
+.roboto-regular {font-family: 'Roboto', sans-serif;}
+.roboto-italic {font-family: 'Roboto', sans-serif; font-style: italic;}
+.roboto-bold {font-family: 'Roboto', sans-serif; font-weight: bold;}
+
+/* Josefin font */
+
+.josefin-title {font-weight: bold; text-decoration: underline;}
+.josefin-regular {font-family: 'Josefin Sans', sans-serif;}
+.josefin-italic {font-family: 'Josefin Sans', sans-serif; font-style: italic;}
+.josefin-bold {font-family: 'Josefin Sans', sans-serif; font-weight: bold;}
+
+/* Exo 2 */
+
+.exo-title {font-weight: bold; text-decoration: underline;}
+.exo-regular {font-family: 'Exo 2', sans-serif;}
+.exo-italic {font-family: 'Exo 2', sans-serif; font-style: italic;}
+.exo-bold {font-family: 'Exo 2', sans-serif; font-weight: bold;}
+.table-font {color: black; border: none;}
+
+
+/* Text style section */
+
+.text-style-container {
+    border: 1px solid white;
+    margin-top: 10px;
+}
+
+.list-h1-title {font-family: 'Roboto', sans-serif;}
+.bold-700 { font-weight: 700;}
+.li {font-family: 'Roboto', sans-serif; font-size: 26px}
+
+.list-h2-title {font-family: 'Josefin Sans', sans-serif;}
+.normal-500 { font-weight: 500;}
+.li {font-family: 'Josefin Sans', sans-serif; font-size: 18px}
+
+.list-p-title {font-family: 'Exo 2', sans-serif;}
+.regular-400 { font-weight: 400;}
+.li {font-family: 'Exo 2', sans-serif; font-size: 14px}
+
+.table-text {color: black; border: none;}
+
+.text-panel {
+    background-color: white; 
+    padding: 5px;
+}
